@@ -11,3 +11,8 @@ I use Apple products almost exclusively these days, so am interested in Swift/Ob
 I am also very interested in localization, as I know several (people) languages.
 
 You can find me on Discord/smolkobe#2807 to chat in real time.
+
+我叫杰克。 我住在加州。
+
+我自从1999利用利纳克斯和伯克利软件分发。
+

@@ -1,4 +1,4 @@
-I'm Jakob. I live in Oregon. 
+I'm Nick. I live in Oregon. 
 
 I've used Linux/BSD in personal and professional environments since 1999.
 

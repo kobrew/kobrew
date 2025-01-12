@@ -1,4 +1,4 @@
-I'm Nik. I live in Oregon. 
+I'm Nik. I live in Oregon. I go to school for now.
 
 I've used Linux/BSD in personal and professional environments since 1999.
 
